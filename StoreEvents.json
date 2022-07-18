@@ -11,11 +11,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "clearweather",
-		"price": 400,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "rain",
 		"price": 350,
 		"karmatype": "Good"
@@ -106,23 +101,13 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "refugeechased",
-		"price": 650,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "animaltame",
-		"price": 150,
+		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "resourcepodcrash",
 		"price": 300,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "transportpodcrash",
-		"price": 600,
 		"karmatype": "Good"
 	},
 	{
@@ -133,11 +118,6 @@
 	{
 		"abr": "orbitaltraderarrival",
 		"price": 350,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "inspiration",
-		"price": 150,
 		"karmatype": "Good"
 	},
 	{
@@ -177,7 +157,7 @@
 	},
 	{
 		"abr": "farmanimals",
-		"price": 400,
+		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
@@ -202,11 +182,6 @@
 	},
 	{
 		"abr": "visitorgroup",
-		"price": 200,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "skillincrease",
 		"price": 200,
 		"karmatype": "Good"
 	},
@@ -262,7 +237,7 @@
 	},
 	{
 		"abr": "infestation",
-		"price": 2500,
+		"price": 3000,
 		"karmatype": "Bad"
 	},
 	{
@@ -296,16 +271,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "gambleskill",
-		"price": 1500,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "trait",
-		"price": 3500,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "removetrait",
 		"price": 5500,
 		"karmatype": "Good"
@@ -326,10 +291,20 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "berescued",
-		"price": 900,
+		"abr": "randominspire",
+		"price": 450,
 		"karmatype": "Good"
+	},
+	{
+		"abr": "torytalkervote",
+		"price": 750,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "hodlbotvote",
+		"price": 600,
+		"karmatype": "Neutral"
 	}
 	],
-	"total": 66
+	"total": 61
 }
